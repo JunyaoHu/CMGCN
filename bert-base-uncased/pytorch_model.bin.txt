@@ -1,0 +1,10 @@
+you should download pytorch_model.bin(440M) ant put it here
+
+https://huggingface.co/bert-base-uncased/tree/main
+
+find it in files->pytorch_model.bin
+
+or you can ignnore it 
+the model will download auto 
+when you are training 
+but it will be slow

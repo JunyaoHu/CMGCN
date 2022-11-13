@@ -1,0 +1,8 @@
+you should download resnet101_faster_rcnn_final.caffemodel(258M) ant put it here
+
+https://storage.googleapis.com/up-down-attention/resnet101_faster_rcnn_final.caffemodel
+
+or you can ignnore it 
+the model will download auto 
+when you are training 
+but it will be slow

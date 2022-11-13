@@ -1,0 +1,3 @@
+you should download B_32.pth
+
+https://github.com/lukemelas/PyTorch-Pretrained-ViT/releases/download/0.0.2/B_32.pth

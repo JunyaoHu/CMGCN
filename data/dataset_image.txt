@@ -1,0 +1,5 @@
+you should download dataset_image 4 zip files ant put it here and upzip them by using 7z command
+
+https://github.com/headacheboy/data-of-multimodal-sarcasm-detection
+
+there are 4 link you should download all!
